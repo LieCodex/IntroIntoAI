@@ -1,0 +1,20 @@
+mouse keyboard headset mousepad
+keyboard monitor mouse
+gpu cpu ram motherboard
+controller headset console
+mouse keyboard webcam
+gpu ram ssd power_supply
+monitor keyboard mouse
+controller console charger
+mouse mousepad keyboard
+gpu cpu cooling_fan
+headset microphone webcam
+monitor gpu keyboard
+console controller headset
+ssd ram motherboard
+keyboard mouse headset
+webcam microphone ring_light
+gpu ram cpu ssd
+controller console charger headset
+monitor keyboard mousepad
+mouse keyboard headset
